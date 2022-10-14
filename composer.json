@@ -1,0 +1,17 @@
+{
+    "name": "twig/omar",
+    "autoload": {
+        "psr-4": {
+            "Twig\\Omar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omar Lahouaichri",
+            "email": "lahouaichri.omar@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
